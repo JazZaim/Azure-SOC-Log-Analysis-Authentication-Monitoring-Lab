@@ -1,4 +1,4 @@
-<h1>Azure-Soc-Log-Monitoring-Lab</h1>
+<h1>Azure-SOC-Log-Monitoring-Lab</h1>
 
 <h2>Description</h2>
 This project simulates entry-level SOC analyst responsibilities by deploying a Windows virtual machine in Microsoft Azure, generating authentication activity, and ingesting Windows Security logs into Azure Log Analytics for monitoring and investigation.
