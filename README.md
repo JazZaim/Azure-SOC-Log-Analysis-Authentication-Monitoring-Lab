@@ -6,8 +6,9 @@ This project simulates entry-level SOC analyst responsibilities by deploying a W
 <br />
 <h2>The objective was to practice: </h2>
 - Log ingestion and validation, authentication failure analysis, security event triage, cloud-based SOC workflows.
-
-Windows VM → Windows Security Events → Azure Log Analytics → SOC Investigation
+<br />
+<br />
+<p>Windows VM → Windows Security Events → Azure Log Analytics → SOC Investigation</p>
 
 <h2>Tools & Technologies </h2>
 - Microsfot Azure, Windows 11 Virutal Machine, Windows Event Viewer.
